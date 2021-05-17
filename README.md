@@ -3,8 +3,10 @@
 ### Модели
 Концептуальная
 ![concept](/pictures/concept.png "Концептуальная модель")
+
 Логическая
 ![logic](/pictures/logic.png "Логическая модель")
+
 Физическая
 ![phys](/pictures/phys.png "Физическая модель")
 
